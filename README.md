@@ -28,6 +28,13 @@ __Some references for install tkinter in windows.__
 
 
 ## Run.
+
+```bash
+git clone https://github.com/EduardYan/Tkinter-url-client.git
+cd Tkinter-url-client
+
+```
+
 __For run execute:__
 
 ```bash
